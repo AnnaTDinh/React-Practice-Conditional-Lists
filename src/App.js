@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import "./App.css";
-import ValidationComponent from "../lists-conditionals--assignment-problem/src/ValidationComponent";
+// import "./App.css";
+import ValidationComponent from './ValidationComponent';
 import CharComponents from "./CharComponents";
 
 class App extends Component {
